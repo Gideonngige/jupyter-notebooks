@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.so
+*.pkl
+*.joblib
+*.h5
+*.pt
+datasets/
+models/
